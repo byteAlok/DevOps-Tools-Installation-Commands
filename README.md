@@ -71,11 +71,11 @@ Individual Markdown files contain installation commands and setup instructions f
 
 | Tool | Installation Guide |
 |---|---|
-| ☕ Java | [Java.md](Programming%20Languages/Java.md) |
-| 🟣 .NET | [Dotnet.md](Programming%20Languages/Dotnet.md) |
-| 🐍 Python | [Python.md](Programming%20Languages/Python.md) |
-| 🐘 PHP | [Php.md](Programming%20Languages/Php.md) |
-| 🟢 Node.js | [NodeJs.md](Programming%20Languages/NodeJs.md) |
+| ☕ Java | [Java.md](Programming%20Languages%20%26%20Development/Java.md) |
+| 🟣 .NET | [Dotnet.md](Programming%20Languages%20%26%20Development/Dotnet.md) |
+| 🐍 Python | [Python.md](Programming%20Languages%20%26%20Development/Python.md) |
+| 🐘 PHP | [Php.md](Programming%20Languages%20%26%20Development/Php.md) |
+| 🟢 Node.js | [NodeJs.md](Programming%20Languages%20%26%20Development/NodeJs.md) |
 
 ### 🔀 Version Control
 
