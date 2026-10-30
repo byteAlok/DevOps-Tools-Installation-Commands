@@ -71,37 +71,42 @@ Individual Markdown files contain installation commands and setup instructions f
 
 | Tool | Installation Guide |
 |---|---|
-| 🔧 Git | [Git.md](Git.md) |
-| ☕ Java | [Java.md](Java.md) |
-| 🟣 .NET | [Dotnet.md](Dotnet.md) |
-| 🐍 Python | [Python.md](Python.md) |
-| 🐘 PHP | [Php.md](Php.md) |
-| 🟢 Node.js | [NodeJs.md](NodeJs.md) |
+| ☕ Java | [Java.md](Programming%20Languages/Java.md) |
+| 🟣 .NET | [Dotnet.md](Programming%20Languages/Dotnet.md) |
+| 🐍 Python | [Python.md](Programming%20Languages/Python.md) |
+| 🐘 PHP | [Php.md](Programming%20Languages/Php.md) |
+| 🟢 Node.js | [NodeJs.md](Programming%20Languages/NodeJs.md) |
+
+### 🔀 Version Control
+
+| Tool | Installation Guide |
+|---|---|
+| 🔧 Git | [Git.md](Version%20Control/Git.md) |
 
 ### ⚙️ DevOps & Infrastructure Tools
 
 | Tool | Installation Guide |
 |---|---|
-| 🐳 Docker | [Docker.md](Docker.md) |
-| 🔨 Jenkins | [Jenkins.md](Jenkins.md) |
-| 🏗️ Terraform | [Terraform.md](Terraform.md) |
-| 🔧 Ansible | [Ansible.md](Ansible.md) |
-| ☸️ Kubernetes | [Kubernates.md](Kubernates.md) |
+| 🐳 Docker | [Docker.md](DevOps%20%26%20Infrastructure/Docker.md) |
+| 🔨 Jenkins | [Jenkins.md](DevOps%20%26%20Infrastructure/Jenkins.md) |
+| 🏗️ Terraform | [Terraform.md](DevOps%20%26%20Infrastructure/Terraform.md) |
+| 🔧 Ansible | [Ansible.md](DevOps%20%26%20Infrastructure/Ansible.md) |
+| ☸️ Kubernetes | [Kubernates.md](DevOps%20%26%20Infrastructure/Kubernates.md) |
 
 ### ☁️ Cloud Platforms & CLI Tools
 
 | Platform | Installation Guide |
 |---|---|
-| 🟠 Amazon Web Services (AWS) | [AWS.md](AWS.md) |
-| 🔵 Microsoft Azure | [Azure.md](Azure.md) |
-| 🌐 Google Cloud Platform (GCP) | [GCP.md](GCP.md) |
+| 🟠 Amazon Web Services (AWS) | [AWS.md](Cloud%20Platforms%20%26%20CLI%20Tools/AWS.md) |
+| 🔵 Microsoft Azure | [Azure.md](Cloud%20Platforms%20%26%20CLI%20Tools/Azure.md) |
+| 🌐 Google Cloud Platform (GCP) | [GCP.md](Cloud%20Platforms%20%26%20CLI%20Tools/GCP.md) |
 
 ### 📊 Monitoring & Observability Tools
 
 | Tool / Stack | Installation Guide |
 |---|---|
-| 📈 Prometheus Node Exporter | [Prometheus-NodeExporter.md](Prometheus-NodeExporter.md) |
-| 📊 Prometheus, Grafana & PagerDuty | [Prometheus-Grafana-PagerDuty-Monitoring.md](Prometheus-Grafana-PagerDuty-Monitoring.md) |
+| 📈 Prometheus Node Exporter | [Prometheus-NodeExporter.md](Monitoring%20%26%20Observability/Prometheus-NodeExporter.md) |
+| 📊 Prometheus, Grafana & PagerDuty | [Prometheus-Grafana-PagerDuty-Monitoring.md](Monitoring%20%26%20Observability/Prometheus-Grafana-PagerDuty-Monitoring.md) |
 
 ## 🛠️ What Each Guide Covers
 
